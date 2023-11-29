@@ -1,5 +1,14 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sourov Dey
+==================================================================================================================================
+
+MERN Stack Developer
+--------------------
+
+* 🌍  I'm based in Bangladesh
+* 🖥️  See my portfolio at [Sourov Dey](http://sourovdey.site)
+* ✉️  You can contact me at [developer.sourovdey@gmail.com](mailto:developer.sourovdey@gmail.com)
+* 🧠  I'm learning Next JS
+* 🤝  I'm open to collaborating on Codex Devware LMS Website
 
 
 ## 🌐 Socials:
