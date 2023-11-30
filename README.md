@@ -3,17 +3,10 @@
 <ul>
   <li>🌍  I'm based in Bangladesh</li>
   <li>🖥️  See my portfolio at <a href="https://sourovdey.site">Sourov Dey</a></li>
-  <li>🌍  I'm based in Bangladesh</li>
-  <li>🌍  I'm based in Bangladesh</li>
-  <li>🌍  I'm based in Bangladesh</li>
+  <li>🧠  I'm learning Next JS</li>
+  <li>🤝  I'm open to collaborating on Codex Devware LMS Website</li>
   
 </ul>
-* 
-*
-* ✉️  You can contact me at [developer.sourovdey@gmail.com](mailto:developer.sourovdey@gmail.com)
-* 🧠  I'm learning Next JS
-* 🤝  I'm open to collaborating on Codex Devware LMS Website
-
 
 ## 🌐 Socials:
 
