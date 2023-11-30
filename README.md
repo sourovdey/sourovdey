@@ -1,7 +1,5 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> I'm Sourov Dey</h1>
 <h3>MERN Stack Developer</h3>
---------------------
-
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [Sourov Dey](http://sourovdey.site)
 * ✉️  You can contact me at [developer.sourovdey@gmail.com](mailto:developer.sourovdey@gmail.com)
