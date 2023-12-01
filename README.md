@@ -3,7 +3,7 @@
 <h3>MERN Stack Developer</h3>
 <ul>
   <li>🌍  I'm based in Bangladesh</li>
-  <li>🖥️  See my portfolio at <a href="https://sourovdey.site">Sourov Dey</a></li>
+  <li>🖥️  See my portfolio at <b><a href="https://sourovdey.site">Sourov Dey</a></b></li>
   <li>🧠  I'm learning Next JS</li>
   <li>🤝  I'm open to collaborating on Codex Devware LMS Website</li>
   
