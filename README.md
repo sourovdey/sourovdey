@@ -1,4 +1,4 @@
-<img width="100%" src="https://i.ibb.co/kD1ZY1h/cover.png">
+<img width="100%" src="asstes/cover.png">
 <h1 align="center">Hi <img width="28px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> I'm Sourov Dey</h1>
 <h3>MERN Stack Developer</h3>
 <ul>
